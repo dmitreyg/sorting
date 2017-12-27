@@ -1,0 +1,14 @@
+{
+  "name": "sorting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nodeunit"
+  },
+  "author": "",
+  "license": "ISC"
+}
