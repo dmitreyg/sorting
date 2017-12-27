@@ -63,6 +63,7 @@ module.exports = {
         let res = this.inversionsCounter.countInversions(array);
         test.deepEqual(3, this.inversionsCounter.getCount());
         test.done();
+        //test change
     }
 
 };
